@@ -1,0 +1,60 @@
+[WARN|2020-11-15 14:49:07,829] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 14:49:07,837] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:00:11,432] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:00:11,439] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:03:57,904] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:03:57,911] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:08:27,538] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:08:27,544] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:11:56,749] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:11:56,760] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:15:03,768] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:15:03,774] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:15:56,241] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:15:56,248] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:19:34,658] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:19:34,664] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:21:13,103] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:21:13,131] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:22:11,255] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:22:11,263] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:23:23,195] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:23:23,200] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:23:25,492] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:24:20,645] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:24:20,653] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:24:22,723] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:24:47,155] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:24:47,162] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:24:49,500] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:25:52,480] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:25:52,488] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:25:54,520] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:31:39,052] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:31:39,059] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:31:40,950] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:32:36,374] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:32:36,381] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:32:38,692] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:34:34,388] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:34:34,396] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:34:36,635] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:36:59,679] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:36:59,686] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:38:12,222] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:38:12,232] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:38:14,515] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:40:46,486] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:40:46,493] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:40:48,446] - [main|AnnotationConfigServletWebServerApplicationContext|refresh|558] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'; nested exception is com.google.common.util.concurrent.ExecutionError: java.lang.NoSuchMethodError: com.google.common.collect.FluentIterable.concat(Ljava/lang/Iterable;Ljava/lang/Iterable;)Lcom/google/common/collect/FluentIterable;
+[WARN|2020-11-15 15:49:59,088] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:49:59,095] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:50:01,601] - [main|ParameterDataTypeReader|apply|92] - Trying to infer dataType java.lang.String[]
+[WARN|2020-11-15 15:51:08,309] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:51:08,319] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:51:11,252] - [main|ParameterDataTypeReader|apply|92] - Trying to infer dataType java.lang.String[]
+[WARN|2020-11-15 15:54:07,996] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:54:08,005] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:55:10,374] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:55:10,381] - [main|URLConfigurationSource|<init>|121] - No URLs will be polled as dynamic configuration sources.
+[WARN|2020-11-15 15:55:12,650] - [main|ParameterDataTypeReader|apply|92] - Trying to infer dataType java.lang.String[]
